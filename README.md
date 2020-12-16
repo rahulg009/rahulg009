@@ -1,8 +1,6 @@
 <h1 align="center">Hola!👋, I am Rahul Gowlapalli.</h1>
 <h3 align="center">A Web Developer and Machine Learning Enthusiast.</h3>
 
-<!--
-**rahulg009/rahulg009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Some more about me
 
@@ -15,4 +13,4 @@
 - 📫 How to reach me: [Linkdin](https://www.linkedin.com/in/rahul-gowlapalli-40b78b1a5/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to play cricket
--->
+
