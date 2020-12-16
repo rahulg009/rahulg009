@@ -15,5 +15,6 @@
 - ⚡ Fun fact: I love to play cricket
 
 # Github Activity📊:
-<a href="https://github-readme-stats.rahulg009.vercel.app/api?username=rahulg009&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
-<img align="center" alt="Rahul's Github Stats" src="https://github-readme-stats.rahulg009.vercel.app/api?username=rahulg009&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=rahulg009&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=radical">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulg009&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=radical">
