@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Ecommerce Site](https://github.com/rahulg009/Ecommerce-site-Node).
 - 🌱 I’m currently learning DL, Competitive Coding.
-- 👯 I’m looking to collaborate on Projects and Hackathons.
+- 👯 I’m looking to collaborate on Projects and Hackathon's.
 - 🤔 I’m looking for help with Deployment of Deep Learning Projects.
 - 💬 Ask me about **Node.js, Data Science and Machine Learning**.
 - 📝 I post my articles on [Medium](https://medium.com/@rahulgowlapalli01).
