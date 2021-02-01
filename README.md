@@ -1,5 +1,5 @@
 <h1 align="center">Hola!👋, I am Rahul Gowlapalli.</h1>
-<h3 align="center">A Web Developer and Machine Learning Enthusiast.</h3>
+<h3 align="center">A Web Developer and a Machine Learning Enthusiast.</h3>
 
 
 ### Some more about me
