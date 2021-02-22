@@ -12,7 +12,7 @@
 - 📝 I post my articles on [Medium](https://medium.com/@rahulgowlapalli01).
 - 📫 How to reach me: [Linkdin](https://www.linkedin.com/in/rahul-gowlapalli-40b78b1a5/).
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I love to play cricket.
+- ⚡ Fun fact: I love to play cricket
 
 # Github Activity📊:
 <img src="https://github-readme-stats.vercel.app/api?username=rahulg009&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
