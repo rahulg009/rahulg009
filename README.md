@@ -4,7 +4,7 @@
 
 ### Some more about me
 
-- 🔭 I’m currently working on [Ecommerce Site](https://github.com/rahulg009/Ecommerce-site-Node).
+- 🔭 I’m currently working on [ecommerce Site](https://github.com/rahulg009/Ecommerce-site-Node).
 - 🌱 I’m currently learning DL, Competitive Coding.
 - 👯 I’m looking to collaborate on Projects and Hackathon's.
 - 🤔 I’m looking for help with Deployment of Deep Learning Projects.
