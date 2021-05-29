@@ -35,12 +35,13 @@
 <div align="center">
 <img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=rahulg009&&show_icons=true&&theme=algolia"  alt="GitHub Stats" />
 <img width=400 src="https://github-readme-stats.vercel.app/api?username=rahulg009&&show_icons=true&theme=algolia">
- </div>
-<img width=400 height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulg009&layout=compact&hide_border=false&&show_icons=true&&theme=algolia">
+
+
 <!-- <img width=400 height=190  src="https://github-readme-stats.vercel.app/api/wakatime?username=rahulg009&custom_title=My%20Weekly%20Stats&layout=compact&theme=algolia" alt="WakaTime" /> -->
 
 <br>
-<div align="center">
+ <img width=400 height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulg009&layout=compact&hide_border=false&&show_icons=true&&theme=algolia">
+
 <img width="800" height="auto" src="https://activity-graph.herokuapp.com/graph?username=rahulg009&bg_color=050f2c&color=fff&line=0194dd&point=5194f0&area=true" alt="Daily Contribution Graph" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulg009&theme=nord_bright"  width="800" height="auto"  alt="Monthly Contribution Graph" >
 </div>
