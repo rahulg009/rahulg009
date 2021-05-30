@@ -67,5 +67,6 @@
 
 <h2>📫 Reach out me:</h2>
 <div align="center">
-<a href="mailto:WriteTo@ayushranjan6456@gmail.com">![WriteTo@ayushranjan6456@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>  <a  href="https://www.linkedin.com/in/ayushranjan6456/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a  href="https://medium.com/@ayushranjan6456">![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white)</a>
+<a href="mailto:WriteTo@ayushranjan6456@gmail.com">![WriteTo@ayushranjan6456@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a  href="https://www.instagram.com/ayush.ranjan02/">![Twitter](https://img.shields.io/badge/Github-333?style=for-the-badge&logo=github&logoColor=white)</a> <a  href="https://www.linkedin.com/in/ayushranjan6456/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a  href="https://medium.com/@ayushranjan6456">![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white)</a>
+<a  href="https://www.instagram.com/ayush.ranjan02/">![Instagram](https://img.shields.io/badge/Instagram-88128f?style=for-the-badge&logo=instagram&logoColor=white)</a> <a  href="https://twitter.com/ayushranjan6456">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
 </div>
