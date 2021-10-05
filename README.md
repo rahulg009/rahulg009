@@ -36,7 +36,7 @@
 <table>
  <tr>
   <td>
-   <img src="https://github-readme-stats.vercel.app/api?username=rahulg009&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" >
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Apurva-tech&theme=tokyonight"  display=block width=100% height=auto alt="3" >
   </td>
   <td>
    <img width=400 src="https://github-readme-stats.vercel.app/api?username=rahulg009&&show_icons=true&theme=algolia">
