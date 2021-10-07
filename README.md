@@ -1,6 +1,6 @@
 <h1 align="center">Hola!👋, I am Rahul Gowlapalli.</h1>
 <h3 align="center">A Web Developer and a Machine Learning Enthusiast.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulg009" alt="Rahul Gowlapalli" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulg009" alt="Rahul Gowlapalli"/> </p>
 
 
 ### Some more about me
