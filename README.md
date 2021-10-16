@@ -5,8 +5,8 @@
 
 ### Some more about me
 
-- 🔭 I’m currently working on [ecommerce Site](https://github.com/rahulg009/ecommerce-store).
-- 🌱 I’m currently learning DL, Competitive Coding.
+- 🔭 I’m currently working on React.js/Backend Projects.
+- 🌱 I’m currently learning DL and practising Competitive Coding.
 - 👯 I’m looking to collaborate on Projects and Hackathon's.
 - 🤔 I’m looking for help with Deployment of Deep Learning Projects.
 - 💬 Ask me about **Node.js, Data Science and Machine Learning**.
