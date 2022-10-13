@@ -1,12 +1,12 @@
 <h1 align="center">Hola!👋, I am Rahul Gowlapalli.</h1>
-<h3 align="center">A Web Developer and a Machine Learning Enthusiast.</h3>
+<h3 align="center">A Senior Undergrad, Fullstack Developer, Developing Applications</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulg009" alt="Rahul Gowlapalli"/> </p>
 
 
 ### Some more about me
 
 - 🔭 I’m currently working on React.js/Backend Projects.
-- 🌱 I’m currently learning DL and practising Competitive Coding.
+- 🌱 I’m currently learning to scale projects and practising Competitive Coding.
 - 👯 I’m looking to collaborate on Projects and Hackathon's.
 - 🤔 I’m looking for help with Deployment of Deep Learning Projects.
 - 💬 Ask me about **Node.js, Data Science and Machine Learning**.
