@@ -5,11 +5,11 @@
 
 ### Some more about me
 
-- 🔭 I’m currently working on React.js/Backend Projects.
-- 🌱 I’m currently learning to scale projects and practising Competitive Coding.
-- 👯 I’m looking to collaborate on Projects and Hackathon's.
-- 🤔 I’m looking for help with Deployment of Deep Learning Projects.
-- 💬 Ask me about **Node.js, Data Science and Machine Learning**.
+- 🔭 I’m currently learning how to develop applications for scale.
+- 🌱 I’m currently learning to next.js and practising Competitive Coding.
+- ✨ My last project [Artemis Api](https://github.com/rahulg009/Artemis-Api).
+- 🤔 I’m looking for help with building scalable applications end to end.
+- 💬 Ask me about **Full Stack Development, Machine learning**.
 - 📝 I post my articles on [Medium](https://medium.com/@rahulgowlapalli01).
 - 📫 How to reach me: [Linkdin](https://www.linkedin.com/in/rahul-gowlapalli-40b78b1a5/).
 - 😄 Pronouns: He/Him.
