@@ -71,7 +71,7 @@
 <a href="mailto:WriteTo@rahulgowlapalli01@gmail.com">![WriteTo@rahulgowlapalli01@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a  href="https://github.com/rahulg009">![Twitter](https://img.shields.io/badge/Github-333?style=for-the-badge&logo=github&logoColor=white)</a> <a  href="https://www.linkedin.com/in/rahul-gowlapalli-40b78b1a5/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a  href="https://medium.com/@rahulgowlapalli01">![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white)</a>
 <a href="https://www.leetcode.com/rahul1o1" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahul101" height="30" width="40" /></a>
  <p>
-  <img src="/image1.png" alt="imag1" style="width:35%;" align="right" >
+  <img src="./image1.png" alt="imag1" style="width:35%;" align="right" >
  </p>
 
 
