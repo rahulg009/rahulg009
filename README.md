@@ -1,5 +1,5 @@
 <h1 align="center">Hola!👋, I am Rahul Gowlapalli.</h1>
-<h3 align="center">A Senior Undergrad, Fullstack Developer, Developing Applications</h3>
+<h3 align="center"> Software Developer, Developing Applications</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulg009" alt="Rahul Gowlapalli"/> </p>
 
 
