@@ -13,7 +13,7 @@
 - 💬 **Ask me about:** **Backend Systems, AI, and Scalable Applications**  
 - 📝 **Blog:** [Medium](https://medium.com/@rahulgowlapalli01)  
 - 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/rahul-gowlapalli-40b78b1a5/)  
-- ⚡ **Fun Fact:** Java >>> C++  
+- ⚡ **Fun Fact:** In Go, channels speak louder than threads.  
 
 ---
 
