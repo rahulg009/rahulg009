@@ -32,8 +32,7 @@
 - 🏅 **AI-ML Track Winner** – Hack by Ecell-VIT  
 - 🥇 **Fintech Track Winner** – Technica  
 - 🏆 **Winner** – Innovacare Hack  
-- 🌟 **Best Community Voted Hack** – Code2Create  
-- 🔥 **1400+ Rating** on Leetcode  
+- 🌟 **Best Community Voted Hack** – Code2Create   
 
 ---
 
