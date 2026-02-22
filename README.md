@@ -8,11 +8,10 @@
 ### 🚀 **About Me**
 - 🔭 **Currently:** Software Development Engineer II at [Yellow.ai](https://yellow.ai)  
 - 🧠 **exploring** LLMs, NLP, and automation to build smarter, more efficient systems.  
-- ✨ **Latest Project:** [Artemis API](https://github.com/rahulg009/Artemis-Api)  
 - 🤖 **Tech Stack:** Backend Development, AI-ML Integration, and System Architecture  
 - 💬 **Ask me about:** **Backend Systems, AI, and Scalable Applications**  
 - 📝 **Blog:** [Medium](https://medium.com/@rahulgowlapalli01)  
-- 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/rahul-gowlapalli-40b78b1a5/)  
+- 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/rahul-gowlapalli-40b78b1a5/)  [
 - ⚡ **Fun Fact:** In Go, channels speak louder than threads.  
 
 ---
