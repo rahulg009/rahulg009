@@ -15,7 +15,7 @@
 
 <p align="center">
 
-📫 <b>Reach me at:</b> <a href="https://www.linkedin.com/in/rahul-gowlapalli-40b78b1a5/">LinkedIn</a>
+📫 <b>Reach me at:</b> devtalksrg.works@gmail.com</a>
 
 </p>
 
